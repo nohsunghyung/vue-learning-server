@@ -15,7 +15,7 @@ npm run dev
 ## 서버 실행 확인
 
 명령어 실행 창에서 아래와 같은 메세지가 떴는지 확인합니다.   
-<img src="/nohsunghyung/vue-learning-server/raw/master/images/success-log.png" style="max-width:100%;">
+<img src="./images/success-log.png" style="max-width:100%;">
 
 ## License
 
