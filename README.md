@@ -5,7 +5,7 @@
 ## 설치 방법
 
 ```
-# 외부 의존성 패키지 설치
+# 패키지 설치
 npm install
 
 # 개발 서버 실행
@@ -17,6 +17,6 @@ npm run dev
 명령어 실행 창에서 아래와 같은 메세지가 떴는지 확인합니다.   
 <img src="./images/success-log.png" style="max-width:100%;">
 
-## License
+## 학습노트 설치 방법
 
-MIT - CaptainPangyo
+[학습노트 설치 레포지토리 바로가기](https://github.com/nohsunghyung/vue-learning-note)
