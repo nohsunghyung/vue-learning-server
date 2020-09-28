@@ -17,6 +17,8 @@ npm run dev
 명령어 실행 창에서 아래와 같은 메세지가 떴는지 확인합니다.   
 <img src="./images/success-log.png" style="max-width:100%;">
 
+localhost:3000/api/docs로 api문서 확인
+
 ## 학습노트 설치 방법
 
 [학습노트 설치 레포지토리 바로가기](https://github.com/nohsunghyung/vue-learning-note)
